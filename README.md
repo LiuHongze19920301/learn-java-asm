@@ -94,7 +94,7 @@ git clone https://github.com/lsieun/learn-java-asm
 
 ### 1.3. 运行代码
 
-在`learn-java-asm`项目当中，包含`main`方法的类主要位于`run`包（`src/main/java/run`）。
+在`learn-java-asm`项目当中，包含`main`方法的类主要位于`com.leo.bytecode.asm.learn.run`包（`src/main/java/com.leo.bytecode.asm.learn.run`）。
 
 ## 2. 课程资料
 
